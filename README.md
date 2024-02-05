@@ -26,3 +26,7 @@ The application will be accessible at `http://localhost:3000` in your browser.
 3. Enter your username and join a chat room to start chatting with others.
 
 ![image](https://github.com/Tusharr0305/ChatApp/assets/113424554/70248ed6-7c47-4fb9-8e74-a9ce0a38ac2d)
+
+
+https://github.com/Tusharr0305/ChatApp/assets/113424554/78442bc7-ea8c-433e-99ac-f71988af3e07
+
